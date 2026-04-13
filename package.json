@@ -1,7 +1,7 @@
 {
   "name": "devcore-ytm-web-v2",
   "version": "1.1.0",
-  "description": "YouTube Music Scraper Cloud Ready",
+  "description": "YouTube Music Scraper Cloud Ready - Optimized by DevCoreAI",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,6 +13,6 @@
     "yt-search": "^2.10.4"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
