@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silitgatel.my.id/sitemap.xml
